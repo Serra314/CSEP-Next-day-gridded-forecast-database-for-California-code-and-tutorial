@@ -4,4 +4,12 @@ Repository containing the code and tutorial to evaluate against observed data, a
 
 The tutorial provides guidance on how to install pyCSEP; how to download the models in the Next-day CSEP forecasts database for California; how to load and visualise forecasts; how to create cumulative forecasts for custom time periods; how to perform CSEP consistency and comparison tests. The code contains all the function illustrated in the tutorial. Both heavily relies on the use of the [pyCSEP toolkit](https://github.com/SCECcode/pycsep).
 
+The tutorial uses the ETAS and STEP models as examples. The HDF5 files corresponding to the forecasts need to be downloaded separately. They can be downloaded from [Zenodo](https://zenodo.org/records/15076187) along with the other models in the database, or separately from the [CSEP website](https://cseptesting.org/grid-based-forecasts/). 
 
+## Files
+
+The `Example_model` folder contains an example forecast used to show how to convert forecasts in CSV file format, organised in a system of nested folder, in HDF5 file format.
+
+The files `functions_for_hdf5.py` and `functions_for_hdf5_parallel.py` contain the functions used in the tutorial to evaluate the forecasts. The second one is just the parallel version of the first one.
+
+The `tutorial.ipynb` is the tutorial as a Jupyter notebook, while `tutorial.pdf` is the corresponding pdf file.
