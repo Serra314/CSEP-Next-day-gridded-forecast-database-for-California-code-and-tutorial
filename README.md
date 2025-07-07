@@ -13,3 +13,10 @@ The `Example_model` folder contains an example forecast used to show how to conv
 The files `functions_for_hdf5.py` and `functions_for_hdf5_parallel.py` contain the functions used in the tutorial to evaluate the forecasts. The second one is just the parallel version of the first one.
 
 The `tutorial.ipynb` is the tutorial as a Jupyter notebook, while `tutorial.pdf` is the corresponding pdf file.
+
+## How to cite
+
+To cite this code in publications please use:
+
+Serafini, F., Bayona, J.A., Silva, F., Savran, W., Stockman, S., Maechling, P.J., Werner, M.J. (under review) *A Database of Ten Years of Prospective Next-Day Earthquake Forecasts in California from the Collaboratory for the Study of Earthquake Predictability*, *Sci Data*. 
+
