@@ -18,5 +18,5 @@ The `tutorial.ipynb` is the tutorial as a Jupyter notebook, while `tutorial.pdf`
 
 To cite this code in publications please use:
 
-Serafini, F., Bayona, J.A., Silva, F., Savran, W., Stockman, S., Maechling, P.J., Werner, M.J. (under review) *A Database of Ten Years of Prospective Next-Day Earthquake Forecasts in California from the Collaboratory for the Study of Earthquake Predictability*, *Sci Data*. 
+Serafini, F., Bayona, J.A., Silva, F., Savran, W., Stockman, S., Maechling, P.J., Werner, M.J. (under review) A Database of Ten Years of Prospective Next-Day Earthquake Forecasts in California from the Collaboratory for the Study of Earthquake Predictability, *Sci Data*. 
 
