@@ -1,6 +1,6 @@
 # Next-day gridded forecast database for California (code and tutorial)
 
-Repository containing the code and tutorial to evaluate against observed data, and compare against each other, models from the next-day CSEP forecast database for California. The files contained here are supplementary material for the article *A Database of Ten Years of Prospective Next-Day Earthquake Forecasts in California from the Collaboratory for the Study of Earthquake Predictability* on Nature Scientific Data.
+Repository containing the code and tutorial to evaluate against observed data, and compare against each other, models from the next-day CSEP forecast database for California. The files contained here are supplementary material for the article *A benchmark database of ten years of prospective next-day earthquake forecasts in California from the Collaboratory for the Study of Earthquake Predictability* on Nature Scientific Data.
 
 The tutorial provides guidance on how to install pyCSEP; how to download the models in the Next-day CSEP forecasts database for California; how to load and visualise forecasts; how to create cumulative forecasts for custom time periods; how to perform CSEP consistency and comparison tests. The code contains all the function illustrated in the tutorial. Both heavily relies on the use of the [pyCSEP toolkit](https://github.com/SCECcode/pycsep) to visualise forecasts, evaluate them against observed data, and compare forecasts from different models.
 
@@ -18,5 +18,5 @@ The `tutorial.ipynb` is the tutorial as a Jupyter notebook, while `tutorial.pdf`
 
 To cite this code in publications please use:
 
-Serafini, F., Bayona, J.A., Silva, F., Savran, W., Stockman, S., Maechling, P.J., Werner, M.J. (under review) A Database of Ten Years of Prospective Next-Day Earthquake Forecasts in California from the Collaboratory for the Study of Earthquake Predictability, *Sci Data*. 
+Serafini, F., Bayona, J.A., Silva, F., Savran, W., Stockman, S., Maechling, P.J., Werner, M.J. (under review) A benchmark database of ten years of prospective next-day earthquake forecasts in California from the Collaboratory for the Study of Earthquake Predictability, *Sci Data*. 
 
